@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/camiyung">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=camiyung&show_icons=true&bg_color=#FDEFE0&theme=gruvbox_light&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=camiyung&show_icons=true&bg_color=#FDEFE0&&text_color&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiyung&layout=compact&langs_count=7&theme=gruvbox_light"/>
 </div>
 
