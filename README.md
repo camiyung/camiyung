@@ -4,6 +4,13 @@ Por conta disso, vi a oportunidade de iniciar e aprimorar os meus conhecimentos 
 
 Atualmente faço parte do Programa Desenvolve 2022 do Grupo Boticário, apredendo linguagem JavaScript e HTML. 
 
+
+
+<div> 
+  <img height="180em" src="(https://github-readme-stats.vercel.app/api?username=camiyung&theme=gruvbox_light&show_icons=true)>
+
+
+
 <!---
 camiyung/camiyung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
