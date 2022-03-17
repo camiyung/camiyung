@@ -9,8 +9,8 @@ Atualmente faço parte do Programa Desenvolve 2022 do Grupo Boticário, apredend
 ##
 <div align="center">
   <a href="https://github.com/camiyung">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camiyung&show_icons=true&bg_color=FDEFE0&title_color=E5B31F&text_color=C46C67&icon_color=F0B45B&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiyung&layout=compact&langs_count=7&show_icons=true&bg_color=FDEFE0&title_color=E5B31F&text_color=C46C67&icon_color=F0B45B&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camiyung&show_icons=true&bg_color=F7E6DE&title_color=C89935&text_color=495659&icon_color=D06986&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camiyung&layout=compact&langs_count=7&show_icons=true&bg_color=F7E6DE&title_color=C89935&text_color=495659&icon_color=D06986&include_all_commits=true&count_private=true"/>
 </div> 
   
 ## 
